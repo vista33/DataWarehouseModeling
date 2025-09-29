@@ -16,3 +16,4 @@ Task: Design a star schema using the Kimball methodology and write a SQL query. 
 Link for Entity-Relation Diagram:
 https://drive.google.com/file/d/1OY1FG77AvrXb3D2TxOIPNeR_oaniNyUn/view?usp=sharing
 
+<img width="941" height="812" alt="image" src="https://github.com/user-attachments/assets/8b16df68-e62e-449c-b732-d95c0e1211f8" />
